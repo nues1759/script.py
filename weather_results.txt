@@ -1,0 +1,8 @@
+Lagos: Temperature 28.7°C, Wind 10.5 km/h, Time 2026-10-14T14:15, Wind Direction 199°, Status Mild
+Abuja: request timed out
+Kano: Temperature 34.6°C, Wind 14.5 km/h, Time 2026-10-14T14:15, Wind Direction 49°, Status Hot
+Port Harcourt: Temperature 26.6°C, Wind 5.0 km/h, Time 2026-10-14T14:15, Wind Direction 178°, Status Mild
+Ibadan: Temperature 28.9°C, Wind 8.4 km/h, Time 2026-10-14T14:15, Wind Direction 165°, Status Mild
+Enugu: request timed out
+Kaduna: Temperature 31.8°C, Wind 11.7 km/h, Time 2026-10-14T14:15, Wind Direction 58°, Status Hot
+Maiduguri: Temperature 35.8°C, Wind 10.6 km/h, Time 2026-10-14T14:15, Wind Direction 72°, Status Hot
